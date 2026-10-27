@@ -215,5 +215,3 @@ TNJ-014-20260908-PADDY-S3-Q05
   facing app, taluk/village fields always fall back to free-text entry
   ("not on the list? just type your own") wherever the bundled data doesn't
   have a match.
-#   H A R V Q  
- 
